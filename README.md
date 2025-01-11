@@ -4,9 +4,6 @@
 - 🎓 **Education**: Computer Engineering Student at York University
 - 💻 **Interests**: Power Systems, Operating Systems, Web Development, and Digital Logic Design
 - 🌱 **Currently Learning**: Artificial Intelligence, Machine Learning, Verilog, and Advanced Web Technologies
-- 🚀 **Projects**:
-  - [SphereMovie](https://github.com/yourusername/SphereMovie)
-  - [RockBlaster Game](https://github.com/yourusername/RockBlaster)
 
 ## Skills
 - **Languages**: Java, C, Python, Verilog
