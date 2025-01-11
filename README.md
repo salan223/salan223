@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Salan!
 
-<!--
-**salan223/salan223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 **Education**: Computer Engineering Student at York University
+- 💻 **Interests**: Power Systems, Operating Systems, Web Development, and Digital Logic Design
+- 🌱 **Currently Learning**: Artificial Intelligence, Machine Learning, Verilog, and Advanced Web Technologies
+- 🚀 **Projects**:
+  - [SphereMovie](https://github.com/yourusername/SphereMovie)
+  - [RockBlaster Game](https://github.com/yourusername/RockBlaster)
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Java, C, Python, Verilog
+- **Frameworks**: React, Flask, Spring Boot
+- **Tools**: Git, Arduino, FPGA, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📫 Reach me at: [salan25@my.yorku.ca](mailto:salan25@my.yorku.ca)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salan-bhattarai-13800221b/)
