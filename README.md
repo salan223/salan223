@@ -9,7 +9,3 @@
 - **Languages**: Java, C, Python, Verilog
 - **Frameworks**: React, Flask, Spring Boot
 - **Tools**: Git, Arduino, FPGA, MongoDB
-
-## Contact
-- 📫 Reach me at: [salan25@my.yorku.ca](mailto:salan25@my.yorku.ca)
-- 💼 LinkedIn: [Salan Bhattarai](https://www.linkedin.com/in/salan-bhattarai-13800221b/)
