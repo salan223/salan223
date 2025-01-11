@@ -15,4 +15,4 @@
 
 ## Contact
 - 📫 Reach me at: [salan25@my.yorku.ca](mailto:salan25@my.yorku.ca)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salan-bhattarai-13800221b/)
+- 💼 LinkedIn: [Salan Bhattarai](https://www.linkedin.com/in/salan-bhattarai-13800221b/)
